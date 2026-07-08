@@ -9,6 +9,11 @@ obj/
 # See README.md > Building from Source
 libs/
 
+# Generated analyzer/decompiler output and local tools
+.analysis/
+.tools/
+.tools8/
+
 # User-specific files
 *.user
 *.suo
